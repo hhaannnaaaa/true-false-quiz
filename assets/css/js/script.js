@@ -1,0 +1,1 @@
+var button = document.getElementsById("check-button");
